@@ -31,7 +31,7 @@ export default function Home() {
       <div className="fixed left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 flex flex-col items-center gap-6">
         <div className="flex items-center gap-2">
           <Radius className="h-16 w-16 rotate-180" />
-          <h1 className="text-6xl font-semibold">Radius</h1>
+          <h1 className="text-6xl font-semibold">OnlyCircle</h1>
         </div>
         <div className="flex items-center gap-2">
           <div className="relative">
