@@ -23,7 +23,7 @@ export default function Navbar() {
         {/* Wrap the logo and text in a Link */}
         <Link href="/" className="flex items-center gap-2">
           <Lucide.Radius className="h-8 w-8 rotate-180" />
-          <h1 className="text-xl font-bold">Radius</h1>
+          <h1 className="text-xl font-bold">OnlyCircle</h1>
         </Link>
       </div>
 
